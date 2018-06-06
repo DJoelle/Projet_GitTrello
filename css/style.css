@@ -1,0 +1,37 @@
+html, body{
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+}
+.main{
+    margin-top: 10%;
+}
+
+.icon{
+    height: 100px;
+    width: 100px;
+}
+
+p{
+    text-align: center;
+    font-size: 18px;
+}
+
+.link{
+    margin-left: 215px;
+    color: #3a3aff;
+}
+
+.link:hover{
+    text-decoration: none;
+    color: #3a3aff;
+} 
+
+.login{
+    border: 1px solid transparent;
+    border-radius: 5px;
+    box-shadow: 0px 0px 1px 0.1px;
+    width: 450px;
+    padding: 35px 25px;
+    background-color: #ffffff;  
+}
